@@ -1,0 +1,7 @@
+private_settings.py
+
+*.log
+
+.scrapy
+
+__pycache__/
